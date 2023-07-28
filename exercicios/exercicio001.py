@@ -1,2 +1,2 @@
-nome = str(input('Digite o seu nome: '))
-print(f'Olá {nome} é um prazer te conhecer!')
+numero = int(input('Digite um número: '))
+print(f'O número digitado foi: {numero}')

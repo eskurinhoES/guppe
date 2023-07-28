@@ -1,9 +1,4 @@
-"""
-Programa que pede ao usuário três números inteiros e mostra a soma deles
-"""
-num1 = int(input('Digite o primeiro valor: '))
-num2 = int(input('Digite o segundo valor: '))
-num3 = int(input('Digite o segundo valor: '))
-soma = num1 + num2 + num3
+# Programa que lê um número real e mostra na tela
+num_real = float(input('Digite um número real qualquer: '))
+print(f'O número real digitado foi: {num_real}')
 
-print(f'A soma entre {num1}, {num2} e {num3} é : {soma} .')
